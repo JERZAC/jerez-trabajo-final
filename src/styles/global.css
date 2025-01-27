@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+  }
+  
+  .border {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .p-2 {
+    padding: 8px;
+  }
+  
+  .bg-blue-500 {
+    background-color: #3b82f6;
+  }
+  
+  .bg-green-500 {
+    background-color: #10b981;
+  }
+  
+  .bg-red-500 {
+    background-color: #ef4444;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .rounded {
+    border-radius: 4px;
+  }
+  
+  .p-4 {
+    padding: 16px;
+  }
+  
+  .text-gray-700 {
+    color: #4b5563;
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+  
